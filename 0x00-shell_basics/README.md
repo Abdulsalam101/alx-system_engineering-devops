@@ -7,19 +7,8 @@ THe 3-listfiles file : is shell script Display current directory contents in a l
 The 4-listmorefiles file : is a shell script Display current directory contents, including hidden files (starting with .).
 The 5-listfilesdigitonly file: is a shell script Display current directory contents.Long format with user and group IDs displayed numerically And hidden files (starting with .)
 The 6-firstdirectory file : is a shell script Create a script that creates a directory named my_first_directory in the /tmp/ directory.
-The 8-firstdelete file : is a shell script Delete The file betty from /tmp/my_first_directory
-
-
-
-
-
-
-
-
-
-
-
-
+The 8-firstdelete file : is a shell script Delete The file betty from /tmp/my_first_director
+The 9-firstdirdeletion file : is a shell script that Delete the directory my_first_directory that is in the /tmp directory
 
 
 The 12-file_type file : is shell script that  prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
