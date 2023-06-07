@@ -23,5 +23,5 @@ The 8-firstdelete file : is a shell script Delete The file betty from /tmp/my_fi
 
 
 
-
+The 13-symbolic_link file: is shell script that Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
 The 14-copy_html file : is shell script Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory. You can consider that all HTML files have the extension .html
