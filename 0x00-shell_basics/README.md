@@ -21,7 +21,7 @@ The 14-copy_html file : is shell script Create a script that copies all the HTML
 
 
 
-
+The 100-lets_move file : is shell script that moves all files beginning with an uppercase letter to the directory /tmp/u.
 
 The 102-tree file : is a shell script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
 The 103-commas file : is a script that lists all the files and directories of the current directory, separated by commas (,)
