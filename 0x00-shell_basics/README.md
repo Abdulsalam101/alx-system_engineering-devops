@@ -8,3 +8,20 @@ The 4-listmorefiles file : is a shell script Display current directory contents,
 The 5-listfilesdigitonly file: is a shell script Display current directory contents.Long format with user and group IDs displayed numerically And hidden files (starting with .)
 The 6-firstdirectory file : is a shell script Create a script that creates a directory named my_first_directory in the /tmp/ directory.
 The 8-firstdelete file : is a shell script Delete The file betty from /tmp/my_first_directory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The 14-copy_html file : is shell script Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory. You can consider that all HTML files have the extension .html
