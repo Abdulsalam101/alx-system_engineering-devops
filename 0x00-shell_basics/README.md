@@ -4,3 +4,4 @@ The 0-current_working_directory file: is a shell script that prints the absolute
 The 1-listit file: is a shell script that Display the contents list of your current directory
 The 2-bring_me_home file: is a shell script that changes the working directory to the user’s home directory
 THe 3-listfiles file : is shell script Display current directory contents in a long format
+The 4-listmorefiles file : is a shell script Display current directory contents, including hidden files (starting with .).
