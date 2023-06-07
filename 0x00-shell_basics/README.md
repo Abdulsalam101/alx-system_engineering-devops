@@ -10,7 +10,7 @@ The 6-firstdirectory file : is a shell script Create a script that creates a dir
 The 7-movethatfile file : is a shell script Move the file betty from /tmp/ to /tmp/my_first_directory
 The 8-firstdelete file : is a shell script Delete The file betty from /tmp/my_first_director
 The 9-firstdirdeletion file : is a shell script that Delete the directory my_first_directory that is in the /tmp directory
-
+The 10-back file : is a shell script that changes the working directory to the previous one
 
 The 12-file_type file : is shell script that  prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
 The 13-symbolic_link file: is shell script that Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
