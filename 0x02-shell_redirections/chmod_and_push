@@ -1,0 +1,25 @@
+#!/bin/bash
+
+# Get the file name and commit message from the user
+file_name=$1
+message=$2
+
+# Check if the file exists
+if [ ! -f "$file_name" ]; then
+  echo "File '$file_name' does not exist"
+  exit 1
+fi
+
+# Change the permissions of the file to make it executable
+chmod u+x "$file_name"
+
+# Add the file to the staging area
+git add "$file_name"
+
+# Commit the changes to the local repository
+git commit -m "$message"
+
+# Push the changes to the remote repository
+git push origin master
+
+echo "Successfully committed, pushed with message '$message'"
